@@ -1,0 +1,19 @@
+.class1{
+    color:black;
+    font-family: "Lucida Console";
+    text-shadow: 6px 7px 6px white;
+    text-align: center;
+}
+.class2{
+  border: 1px solid black;
+  height: 120px;
+  width: 100%;
+   filter: blur(1px);
+  background-filter-blur:black;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+p{
+    font-size: large;
+     color:grey;
+}
